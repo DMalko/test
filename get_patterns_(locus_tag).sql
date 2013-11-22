@@ -1,6 +1,6 @@
-SET SESSION group_concat_max_len = 10;
+SET SESSION group_concat_max_len = 1000000;
 
-SELEcT group_id, genome_1, genome_2, genome_3, other_strep,
+SELECT group_id, genome_1, genome_2, genome_3, other_strep,
 (SELECT GROUP_CONCAT(t3.value SEPARATOR ';') FROM orthomcl AS t2 INNER JOIN feature_tag AS t3 USING(feature_id) 
 WHERE t2.genome_id = 1 AND t2.group_id = t1.group_id AND t3.tag = 'locus_tag') AS locus1,
 (SELECT GROUP_CONCAT(t5.value SEPARATOR ';') FROM orthomcl AS t4 INNER JOIN feature_tag AS t5 USING(feature_id) 
