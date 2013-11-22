@@ -1,0 +1,66 @@
+Holospora curviuscula 02AZ16
+Holospora undulata HU1
+Holospora obtusa F1.gb
+
+Anaplasma centrale str. Israel.gb
+Anaplasma marginale str. Florida.gb
+Anaplasma marginale str. St. Maries.gb
+Anaplasma phagocytophilum HZ.gb
+Anaplasma phagocytophilum str. Dog2.gb
+Anaplasma phagocytophilum str. HZ2.gb
+Anaplasma phagocytophilum str. JM.gb
+Candidatus Hodgkinia cicadicola Dsem.gb
+Candidatus Midichloria mitochondrii IricVA.gb
+Ehrlichia canis str. Jake.gb
+Ehrlichia chaffeensis str. Arkansas.gb
+Ehrlichia chaffeensis str. Sapulpa.gb
+Ehrlichia ruminantium strain Welgevonden.gb
+Ehrlichia ruminantium str. Gardel.gb
+Neorickettsia risticii str. Illinois.gb
+Neorickettsia sennetsu strain Miyayama.gb
+Orientia tsutsugamushi Boryong.gb
+Orientia tsutsugamushi str. Ikeda.gb
+Rickettsia africae ESF-5.gb
+Rickettsia africae ESF-5 plasmid pRAF.gb
+Rickettsia akari str. Hartford.gb
+Rickettsia australis str. Cutlack.gb
+Rickettsia australis str. Cutlack Plasmid01.gb
+Rickettsia bellii OSU 85-389.gb
+Rickettsia bellii RML369-C.gb
+Rickettsia canadensis str. McKiel.gb
+Rickettsia conorii str. Malish 7.gb
+Rickettsia felis URRWXCal2.gb
+Rickettsia felis URRWXCal2 plasmid pRFdelta.gb
+Rickettsia felis URRWXCal2 plasmid pRF.gb
+Rickettsia heilongjiangensis 054.gb
+Rickettsia massiliae MTU5.gb
+Rickettsia massiliae MTU5 plasmid pRMA.gb
+Rickettsia massiliae str. AZT80.gb
+Rickettsia massiliae str. AZT80 plasmid pRMB.gb
+Rickettsia montanensis str. OSU 85-930.gb
+Rickettsia parkeri str. Portsmouth.gb
+Rickettsia peacockii str. Rustic.gb
+Rickettsia peacockii str. Rustic plasmid pRPR.gb
+Rickettsia philipii str. 364D.gb
+Rickettsia prowazekii str. Breinl.gb
+Rickettsia prowazekii str. BuV67-CWPP.gb
+Rickettsia prowazekii str. Chernikova.gb
+Rickettsia prowazekii str. Dachau.gb
+Rickettsia prowazekii str. RpGvF24.gb
+Rickettsia rhipicephali str. 3-7-female6-CWPP.gb
+Rickettsia rhipicephali str. 3-7-female6-CWPP plasmid pMCC_1.gb
+Rickettsia rickettsii str. Arizona.gb
+Rickettsia rickettsii str. Brazil.gb
+Rickettsia rickettsii str. Colombia.gb
+Rickettsia rickettsii str. Iowa.gb
+Rickettsia rickettsii str. 'Sheila Smith'.gb
+Rickettsia sibirica 246.gb
+Rickettsia slovaca 13-B.gb
+Rickettsia slovaca str. D-CWPP.gb
+Rickettsia typhi str. B9991CWPP.gb
+Rickettsia typhi str. Wilmington.gb
+Wolbachia endosymbiont of Culex quinquefasciatus Pel strain wPip.gb
+Wolbachia endosymbiont of Drosophila melanogaster.gb
+Wolbachia endosymbiont of Drosophila simulans wHa.gb
+Wolbachia endosymbiont of Drosophila simulans wNo.gb
+Wolbachia endosymbiont strain TRS of Brugia malayi.gb
